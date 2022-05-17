@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ariel_Chimbolema</string>
+    <string name="text_nombre">nombre</string>
+    <string name="text_apellido">apellido</string>
+    <string name="text_nombre1">nombre</string>
+    <string name="text_apellido1">apellido</string>
+    <string name="text_base">base</string>
+    <string name="text_base1">base</string>
+    <string name="text_exponente">exponente</string>
+    <string name="text_factorial">factorial</string>
+    <string name="text_potencia">potencia</string>
+    <string name="btn_siguiente1">siguiente</string>
+    <string name="btn_mostrar1">mostrar</string>
+    <string name="btn_siguiente2">siguiente</string>
+    <string name="btn_cerrar1">cerrar</string>
+    <string name="btn_cerrar2">cerrar</string>
+    <string name="text_nombre2">nombre</string>
+    <string name="text_apellido2">apellido</string>
+    <string name="text_base2">base</string>
+    <string name="text_exponente2">exponente</string>
+    <string name="text_factorial2">factorial</string>
+</resources>
